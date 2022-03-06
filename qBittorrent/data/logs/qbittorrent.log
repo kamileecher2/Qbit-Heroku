@@ -1,0 +1,370 @@
+(N) 2021-11-27T11:40:07 - qBittorrent v4.1.7 started
+(I) 2021-11-27T11:40:09 - qBittorrent is trying to listen on any interface port: 8999
+(N) 2021-11-27T11:40:09 - Peer ID: -qB4170-
+(N) 2021-11-27T11:40:09 - HTTP User-Agent is 'qBittorrent/4.1.7'
+(I) 2021-11-27T11:40:09 - DHT support [ON]
+(I) 2021-11-27T11:40:09 - Local Peer Discovery support [ON]
+(I) 2021-11-27T11:40:09 - PeX support [ON]
+(I) 2021-11-27T11:40:09 - Anonymous mode [OFF]
+(I) 2021-11-27T11:40:09 - Encryption support [ON]
+(I) 2021-11-27T11:40:09 - Embedded Tracker [OFF]
+(I) 2021-11-27T11:40:09 - UPnP / NAT-PMP support [ON]
+(W) 2021-11-27T11:40:09 - Couldn't load GeoIP database. Reason: No such file or directory
+(N) 2021-11-27T11:40:09 - Using built-in Web UI.
+(W) 2021-11-27T11:40:09 - Couldn't load Web UI translation for selected locale (C).
+(N) 2021-11-27T11:40:09 - Web UI: Now listening on IP: *, port: 8080
+(I) 2021-11-27T11:40:09 - qBittorrent is successfully listening on interface :: port: TCP/8999
+(I) 2021-11-27T11:40:09 - qBittorrent is successfully listening on interface 0.0.0.0 port: TCP/8999
+(I) 2021-11-27T11:40:09 - qBittorrent is successfully listening on interface 0.0.0.0 port: UDP/8999
+(W) 2021-11-27T11:40:09 - Couldn't download GeoIP database file. Reason: The remote host name was not found (invalid hostname)
+(I) 2021-11-27T11:40:19 - External IP: 59.92.161.29
+(W) 2021-11-27T11:40:30 - WebAPI login failure. Reason: invalid credentials, attempt count: 1, IP: ::ffff:127.0.0.1, username: admin
+(N) 2021-11-27T11:40:42 - WebAPI login success. IP: ::ffff:127.0.0.1
+(C) 2021-11-27T11:42:45 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: no router found
+(C) 2021-11-27T11:42:45 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: no router found
+(C) 2021-11-27T11:42:45 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: no router found
+(W) 2021-11-27T11:44:25 -  is not a valid IP address and was rejected while applying the list of banned addresses.
+(N) 2021-11-27T11:44:25 - Web UI translation for selected locale (en) has been successfully loaded.
+(N) 2021-11-27T11:44:25 - Web UI: Now listening on IP: *, port: 8080
+(I) 2021-11-27T11:46:51 - UPnP / NAT-PMP support [OFF]
+(N) 2021-11-27T11:46:54 - qBittorrent v4.1.7 started
+(I) 2021-11-27T11:46:55 - qBittorrent is trying to listen on any interface port: 8999
+(N) 2021-11-27T11:46:55 - Peer ID: -qB4170-
+(N) 2021-11-27T11:46:55 - HTTP User-Agent is 'qBittorrent/4.1.7'
+(I) 2021-11-27T11:46:55 - DHT support [ON]
+(I) 2021-11-27T11:46:55 - Local Peer Discovery support [ON]
+(I) 2021-11-27T11:46:55 - PeX support [ON]
+(I) 2021-11-27T11:46:55 - Anonymous mode [OFF]
+(I) 2021-11-27T11:46:55 - Encryption support [ON]
+(I) 2021-11-27T11:46:55 - Embedded Tracker [OFF]
+(I) 2021-11-27T11:46:55 - UPnP / NAT-PMP support [ON]
+(W) 2021-11-27T11:46:55 - Couldn't load GeoIP database. Reason: No such file or directory
+(N) 2021-11-27T11:46:55 - Using built-in Web UI.
+(N) 2021-11-27T11:46:55 - Web UI translation for selected locale (en) has been successfully loaded.
+(N) 2021-11-27T11:46:55 - Web UI: Now listening on IP: *, port: 8080
+(I) 2021-11-27T11:46:55 - qBittorrent is successfully listening on interface :: port: TCP/8999
+(I) 2021-11-27T11:46:55 - qBittorrent is successfully listening on interface 0.0.0.0 port: TCP/8999
+(I) 2021-11-27T11:46:55 - qBittorrent is successfully listening on interface 0.0.0.0 port: UDP/8999
+(W) 2021-11-27T11:46:55 - Couldn't download GeoIP database file. Reason: The remote host name was not found (invalid hostname)
+(I) 2021-11-27T11:46:55 - External IP: 59.92.161.29
+(W) 2021-11-27T11:47:08 - WebAPI login failure. Reason: invalid credentials, attempt count: 1, IP: ::ffff:127.0.0.1, username: admin
+(N) 2021-11-27T11:47:19 - WebAPI login success. IP: ::ffff:127.0.0.1
+(I) 2021-11-27T11:47:50 - Python detected, executable name: 'python3', version: 3.8.2
+(I) 2021-11-27T11:48:04 - UPnP / NAT-PMP support [OFF]
+(N) 2021-11-27T12:10:11 - qBittorrent v4.1.7 started
+(I) 2021-11-27T12:10:11 - qBittorrent is trying to listen on any interface port: 8999
+(N) 2021-11-27T12:10:11 - Peer ID: -qB4170-
+(N) 2021-11-27T12:10:11 - HTTP User-Agent is 'qBittorrent/4.1.7'
+(I) 2021-11-27T12:10:11 - DHT support [ON]
+(I) 2021-11-27T12:10:11 - Local Peer Discovery support [ON]
+(I) 2021-11-27T12:10:11 - PeX support [ON]
+(I) 2021-11-27T12:10:11 - Anonymous mode [OFF]
+(I) 2021-11-27T12:10:11 - Encryption support [ON]
+(I) 2021-11-27T12:10:11 - Embedded Tracker [OFF]
+(I) 2021-11-27T12:10:11 - UPnP / NAT-PMP support [ON]
+(W) 2021-11-27T12:10:11 - Couldn't load GeoIP database. Reason: No such file or directory
+(N) 2021-11-27T12:10:11 - Using built-in Web UI.
+(N) 2021-11-27T12:10:11 - Web UI translation for selected locale (en) has been successfully loaded.
+(N) 2021-11-27T12:10:11 - Web UI: Now listening on IP: *, port: 8080
+(I) 2021-11-27T12:10:11 - qBittorrent is successfully listening on interface :: port: TCP/8999
+(I) 2021-11-27T12:10:11 - qBittorrent is successfully listening on interface 0.0.0.0 port: TCP/8999
+(I) 2021-11-27T12:10:11 - qBittorrent is successfully listening on interface 0.0.0.0 port: UDP/8999
+(W) 2021-11-27T12:10:11 - Couldn't download GeoIP database file. Reason: The remote host name was not found (invalid hostname)
+(I) 2021-11-27T12:10:17 - External IP: 59.92.161.29
+(N) 2021-11-27T12:10:40 - WebAPI login success. IP: ::ffff:127.0.0.1
+(I) 2021-11-27T12:10:42 - Python detected, executable name: 'python3', version: 3.8.2
+(W) 2021-11-27T12:11:56 -  is not a valid IP address and was rejected while applying the list of banned addresses.
+(N) 2021-11-27T12:11:56 - Web UI: Now listening on IP: *, port: 8080
+(C) 2021-11-27T12:12:47 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: no router found
+(C) 2021-11-27T12:12:47 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: no router found
+(C) 2021-11-27T12:12:47 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: no router found
+(W) 2021-11-27T12:13:41 -  is not a valid IP address and was rejected while applying the list of banned addresses.
+(N) 2021-11-27T12:13:41 - Web UI: Now listening on IP: *, port: 8080
+(W) 2021-11-27T12:14:36 -  is not a valid IP address and was rejected while applying the list of banned addresses.
+(I) 2021-11-27T12:14:50 - UPnP / NAT-PMP support [OFF]
+(N) 2021-11-27T12:17:17 - qBittorrent v4.1.7 started
+(I) 2021-11-27T12:17:18 - qBittorrent is trying to listen on any interface port: 8999
+(N) 2021-11-27T12:17:18 - Peer ID: -qB4170-
+(N) 2021-11-27T12:17:18 - HTTP User-Agent is 'qBittorrent/4.1.7'
+(I) 2021-11-27T12:17:18 - DHT support [ON]
+(I) 2021-11-27T12:17:18 - Local Peer Discovery support [ON]
+(I) 2021-11-27T12:17:18 - PeX support [ON]
+(I) 2021-11-27T12:17:18 - Anonymous mode [OFF]
+(I) 2021-11-27T12:17:18 - Encryption support [ON]
+(I) 2021-11-27T12:17:18 - Embedded Tracker [OFF]
+(I) 2021-11-27T12:17:18 - UPnP / NAT-PMP support [ON]
+(W) 2021-11-27T12:17:18 - Couldn't load GeoIP database. Reason: No such file or directory
+(N) 2021-11-27T12:17:18 - Using built-in Web UI.
+(N) 2021-11-27T12:17:18 - Web UI translation for selected locale (en) has been successfully loaded.
+(N) 2021-11-27T12:17:18 - Web UI: Now listening on IP: *, port: 8080
+(I) 2021-11-27T12:17:18 - qBittorrent is successfully listening on interface :: port: TCP/8999
+(I) 2021-11-27T12:17:18 - qBittorrent is successfully listening on interface 0.0.0.0 port: TCP/8999
+(I) 2021-11-27T12:17:18 - qBittorrent is successfully listening on interface 0.0.0.0 port: UDP/8999
+(W) 2021-11-27T12:17:23 - Couldn't download GeoIP database file. Reason: The remote host name was not found (invalid hostname)
+(I) 2021-11-27T12:17:23 - External IP: 59.92.161.29
+(N) 2021-11-27T12:17:31 - WebAPI login success. IP: ::ffff:127.0.0.1
+(I) 2021-11-27T12:17:32 - Python detected, executable name: 'python3', version: 3.8.2
+(W) 2021-11-27T12:19:05 -  is not a valid IP address and was rejected while applying the list of banned addresses.
+(N) 2021-11-27T12:19:05 - Web UI: Now listening on IP: *, port: 8080
+(I) 2021-11-27T12:19:30 - UPnP / NAT-PMP support [OFF]
+(N) 2021-12-09T00:16:45 - qBittorrent v4.1.7 started
+(I) 2021-12-09T00:16:45 - qBittorrent is trying to listen on any interface port: 8999
+(N) 2021-12-09T00:16:45 - Peer ID: -qB4170-
+(N) 2021-12-09T00:16:45 - HTTP User-Agent is 'qBittorrent/4.1.7'
+(I) 2021-12-09T00:16:45 - DHT support [ON]
+(I) 2021-12-09T00:16:45 - Local Peer Discovery support [ON]
+(I) 2021-12-09T00:16:45 - PeX support [ON]
+(I) 2021-12-09T00:16:45 - Anonymous mode [OFF]
+(I) 2021-12-09T00:16:45 - Encryption support [ON]
+(I) 2021-12-09T00:16:45 - Embedded Tracker [OFF]
+(I) 2021-12-09T00:16:45 - UPnP / NAT-PMP support [ON]
+(W) 2021-12-09T00:16:45 - Couldn't load GeoIP database. Reason: No such file or directory
+(N) 2021-12-09T00:16:45 - Using built-in Web UI.
+(N) 2021-12-09T00:16:45 - Web UI translation for selected locale (en) has been successfully loaded.
+(N) 2021-12-09T00:16:45 - Web UI: Now listening on IP: *, port: 29853
+(I) 2021-12-09T00:16:45 - qBittorrent is successfully listening on interface :: port: TCP/8999
+(I) 2021-12-09T00:16:45 - qBittorrent is successfully listening on interface 0.0.0.0 port: TCP/8999
+(I) 2021-12-09T00:16:45 - qBittorrent is successfully listening on interface 0.0.0.0 port: UDP/8999
+(W) 2021-12-09T00:16:45 - Couldn't download GeoIP database file. Reason: The remote host name was not found (invalid hostname)
+(I) 2021-12-09T00:16:45 - External IP: 3.237.27.65
+(C) 2021-12-09T00:19:21 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: no router found
+(C) 2021-12-09T00:19:21 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: no router found
+(C) 2021-12-09T00:19:21 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: no router found
+(N) 2021-12-15T07:39:43 - qBittorrent v4.1.7 started
+(I) 2021-12-15T07:39:43 - qBittorrent is trying to listen on any interface port: 8999
+(N) 2021-12-15T07:39:43 - Peer ID: -qB4170-
+(N) 2021-12-15T07:39:43 - HTTP User-Agent is 'qBittorrent/4.1.7'
+(I) 2021-12-15T07:39:43 - DHT support [ON]
+(I) 2021-12-15T07:39:43 - Local Peer Discovery support [ON]
+(I) 2021-12-15T07:39:43 - PeX support [ON]
+(I) 2021-12-15T07:39:43 - Anonymous mode [OFF]
+(I) 2021-12-15T07:39:43 - Encryption support [ON]
+(I) 2021-12-15T07:39:43 - Embedded Tracker [OFF]
+(I) 2021-12-15T07:39:43 - UPnP / NAT-PMP support [ON]
+(W) 2021-12-15T07:39:43 - Couldn't load GeoIP database. Reason: No such file or directory
+(N) 2021-12-15T07:39:43 - Using built-in Web UI.
+(N) 2021-12-15T07:39:43 - Web UI translation for selected locale (en) has been successfully loaded.
+(N) 2021-12-15T07:39:43 - Web UI: Now listening on IP: *, port: 17165
+(I) 2021-12-15T07:39:43 - qBittorrent is successfully listening on interface :: port: TCP/8999
+(I) 2021-12-15T07:39:43 - qBittorrent is successfully listening on interface 0.0.0.0 port: TCP/8999
+(I) 2021-12-15T07:39:43 - qBittorrent is successfully listening on interface 0.0.0.0 port: UDP/8999
+(W) 2021-12-15T07:39:43 - Couldn't download GeoIP database file. Reason: The remote host name was not found (invalid hostname)
+(I) 2021-12-15T07:39:43 - External IP: 34.226.154.149
+(C) 2021-12-15T07:42:19 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: no router found
+(C) 2021-12-15T07:42:19 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: no router found
+(C) 2021-12-15T07:42:19 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: no router found
+(N) 2021-12-22T00:12:29 - qBittorrent v4.1.7 started
+(I) 2021-12-22T00:12:29 - qBittorrent is trying to listen on any interface port: 8999
+(N) 2021-12-22T00:12:29 - Peer ID: -qB4170-
+(N) 2021-12-22T00:12:29 - HTTP User-Agent is 'qBittorrent/4.1.7'
+(I) 2021-12-22T00:12:29 - DHT support [ON]
+(I) 2021-12-22T00:12:29 - Local Peer Discovery support [ON]
+(I) 2021-12-22T00:12:29 - PeX support [ON]
+(I) 2021-12-22T00:12:29 - Anonymous mode [OFF]
+(I) 2021-12-22T00:12:29 - Encryption support [ON]
+(I) 2021-12-22T00:12:29 - Embedded Tracker [OFF]
+(I) 2021-12-22T00:12:29 - UPnP / NAT-PMP support [ON]
+(W) 2021-12-22T00:12:29 - Couldn't load GeoIP database. Reason: No such file or directory
+(N) 2021-12-22T00:12:29 - Using built-in Web UI.
+(N) 2021-12-22T00:12:29 - Web UI translation for selected locale (en) has been successfully loaded.
+(N) 2021-12-22T00:12:29 - Web UI: Now listening on IP: *, port: 51661
+(I) 2021-12-22T00:12:29 - qBittorrent is successfully listening on interface :: port: TCP/8999
+(I) 2021-12-22T00:12:29 - qBittorrent is successfully listening on interface 0.0.0.0 port: TCP/8999
+(I) 2021-12-22T00:12:29 - qBittorrent is successfully listening on interface 0.0.0.0 port: UDP/8999
+(W) 2021-12-22T00:12:29 - Couldn't download GeoIP database file. Reason: The remote host name was not found (invalid hostname)
+(I) 2021-12-22T00:12:29 - External IP: 54.175.22.190
+(C) 2021-12-22T00:15:05 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: no router found
+(C) 2021-12-22T00:15:05 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: no router found
+(C) 2021-12-22T00:15:05 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: no router found
+(N) 2021-12-23T02:37:08 - qBittorrent v4.1.7 started
+(I) 2021-12-23T02:37:08 - qBittorrent is trying to listen on any interface port: 8999
+(N) 2021-12-23T02:37:08 - Peer ID: -qB4170-
+(N) 2021-12-23T02:37:08 - HTTP User-Agent is 'qBittorrent/4.1.7'
+(I) 2021-12-23T02:37:08 - DHT support [ON]
+(I) 2021-12-23T02:37:08 - Local Peer Discovery support [ON]
+(I) 2021-12-23T02:37:08 - PeX support [ON]
+(I) 2021-12-23T02:37:08 - Anonymous mode [OFF]
+(I) 2021-12-23T02:37:08 - Encryption support [ON]
+(I) 2021-12-23T02:37:08 - Embedded Tracker [OFF]
+(I) 2021-12-23T02:37:08 - UPnP / NAT-PMP support [ON]
+(W) 2021-12-23T02:37:08 - Couldn't load GeoIP database. Reason: No such file or directory
+(N) 2021-12-23T02:37:08 - Using built-in Web UI.
+(N) 2021-12-23T02:37:08 - Web UI translation for selected locale (en) has been successfully loaded.
+(N) 2021-12-23T02:37:08 - Web UI: Now listening on IP: *, port: 27397
+(I) 2021-12-23T02:37:08 - qBittorrent is successfully listening on interface :: port: TCP/8999
+(I) 2021-12-23T02:37:08 - qBittorrent is successfully listening on interface 0.0.0.0 port: TCP/8999
+(I) 2021-12-23T02:37:08 - qBittorrent is successfully listening on interface 0.0.0.0 port: UDP/8999
+(W) 2021-12-23T02:37:08 - Couldn't download GeoIP database file. Reason: The remote host name was not found (invalid hostname)
+(I) 2021-12-23T02:37:08 - External IP: 34.230.88.88
+(C) 2021-12-23T02:39:44 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: no router found
+(C) 2021-12-23T02:39:44 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: no router found
+(C) 2021-12-23T02:39:44 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: no router found
+(N) 2021-12-25T03:35:23 - qBittorrent v4.1.7 started
+(I) 2021-12-25T03:35:23 - qBittorrent is trying to listen on any interface port: 8999
+(N) 2021-12-25T03:35:23 - Peer ID: -qB4170-
+(N) 2021-12-25T03:35:23 - HTTP User-Agent is 'qBittorrent/4.1.7'
+(I) 2021-12-25T03:35:23 - DHT support [ON]
+(I) 2021-12-25T03:35:23 - Local Peer Discovery support [ON]
+(I) 2021-12-25T03:35:23 - PeX support [ON]
+(I) 2021-12-25T03:35:23 - Anonymous mode [OFF]
+(I) 2021-12-25T03:35:23 - Encryption support [ON]
+(I) 2021-12-25T03:35:23 - Embedded Tracker [OFF]
+(I) 2021-12-25T03:35:23 - UPnP / NAT-PMP support [ON]
+(W) 2021-12-25T03:35:23 - Couldn't load GeoIP database. Reason: No such file or directory
+(N) 2021-12-25T03:35:23 - Using built-in Web UI.
+(N) 2021-12-25T03:35:23 - Web UI translation for selected locale (en) has been successfully loaded.
+(N) 2021-12-25T03:35:23 - Web UI: Now listening on IP: *, port: 46405
+(I) 2021-12-25T03:35:23 - qBittorrent is successfully listening on interface :: port: TCP/8999
+(I) 2021-12-25T03:35:23 - qBittorrent is successfully listening on interface 0.0.0.0 port: TCP/8999
+(I) 2021-12-25T03:35:23 - qBittorrent is successfully listening on interface 0.0.0.0 port: UDP/8999
+(W) 2021-12-25T03:35:23 - Couldn't download GeoIP database file. Reason: The remote host name was not found (invalid hostname)
+(I) 2021-12-25T03:35:23 - External IP: 44.197.249.200
+(C) 2021-12-25T03:37:59 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: no router found
+(C) 2021-12-25T03:37:59 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: no router found
+(C) 2021-12-25T03:37:59 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: no router found
+(N) 2021-12-26T00:06:50 - qBittorrent v4.1.7 started
+(I) 2021-12-26T00:06:50 - qBittorrent is trying to listen on any interface port: 8999
+(N) 2021-12-26T00:06:50 - Peer ID: -qB4170-
+(N) 2021-12-26T00:06:50 - HTTP User-Agent is 'qBittorrent/4.1.7'
+(I) 2021-12-26T00:06:50 - DHT support [ON]
+(I) 2021-12-26T00:06:50 - Local Peer Discovery support [ON]
+(I) 2021-12-26T00:06:50 - PeX support [ON]
+(I) 2021-12-26T00:06:50 - Anonymous mode [OFF]
+(I) 2021-12-26T00:06:50 - Encryption support [ON]
+(I) 2021-12-26T00:06:50 - Embedded Tracker [OFF]
+(I) 2021-12-26T00:06:50 - UPnP / NAT-PMP support [ON]
+(W) 2021-12-26T00:06:50 - Couldn't load GeoIP database. Reason: No such file or directory
+(N) 2021-12-26T00:06:50 - Using built-in Web UI.
+(N) 2021-12-26T00:06:50 - Web UI translation for selected locale (en) has been successfully loaded.
+(N) 2021-12-26T00:06:50 - Web UI: Now listening on IP: *, port: 31290
+(I) 2021-12-26T00:06:50 - qBittorrent is successfully listening on interface :: port: TCP/8999
+(I) 2021-12-26T00:06:50 - qBittorrent is successfully listening on interface 0.0.0.0 port: TCP/8999
+(I) 2021-12-26T00:06:50 - qBittorrent is successfully listening on interface 0.0.0.0 port: UDP/8999
+(W) 2021-12-26T00:06:50 - Couldn't download GeoIP database file. Reason: The remote host name was not found (invalid hostname)
+(I) 2021-12-26T00:06:51 - External IP: 54.159.9.154
+(C) 2021-12-26T00:09:26 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: no router found
+(C) 2021-12-26T00:09:26 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: no router found
+(C) 2021-12-26T00:09:26 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: no router found
+(N) 2021-12-31T00:06:11 - qBittorrent v4.1.7 started
+(I) 2021-12-31T00:06:11 - qBittorrent is trying to listen on any interface port: 8999
+(N) 2021-12-31T00:06:11 - Peer ID: -qB4170-
+(N) 2021-12-31T00:06:11 - HTTP User-Agent is 'qBittorrent/4.1.7'
+(I) 2021-12-31T00:06:11 - DHT support [ON]
+(I) 2021-12-31T00:06:11 - Local Peer Discovery support [ON]
+(I) 2021-12-31T00:06:11 - PeX support [ON]
+(I) 2021-12-31T00:06:11 - Anonymous mode [OFF]
+(I) 2021-12-31T00:06:11 - Encryption support [ON]
+(I) 2021-12-31T00:06:11 - Embedded Tracker [OFF]
+(I) 2021-12-31T00:06:11 - UPnP / NAT-PMP support [ON]
+(W) 2021-12-31T00:06:11 - Couldn't load GeoIP database. Reason: No such file or directory
+(N) 2021-12-31T00:06:11 - Using built-in Web UI.
+(N) 2021-12-31T00:06:11 - Web UI translation for selected locale (en) has been successfully loaded.
+(N) 2021-12-31T00:06:11 - Web UI: Now listening on IP: *, port: 50535
+(I) 2021-12-31T00:06:11 - System network status changed to ONLINE
+(I) 2021-12-31T00:06:11 - qBittorrent is successfully listening on interface :: port: TCP/8999
+(I) 2021-12-31T00:06:11 - qBittorrent is successfully listening on interface 0.0.0.0 port: TCP/8999
+(I) 2021-12-31T00:06:11 - qBittorrent is successfully listening on interface 0.0.0.0 port: UDP/8999
+(W) 2021-12-31T00:06:12 - Couldn't download GeoIP database file. Reason: The remote host name was not found (invalid hostname)
+(I) 2021-12-31T00:06:12 - External IP: 100.27.37.157
+(C) 2021-12-31T00:08:47 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: no router found
+(C) 2021-12-31T00:08:47 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: no router found
+(C) 2021-12-31T00:08:47 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: no router found
+(N) 2022-01-01T05:07:49 - qBittorrent v4.1.7 started
+(I) 2022-01-01T05:07:49 - qBittorrent is trying to listen on any interface port: 8999
+(N) 2022-01-01T05:07:49 - Peer ID: -qB4170-
+(N) 2022-01-01T05:07:49 - HTTP User-Agent is 'qBittorrent/4.1.7'
+(I) 2022-01-01T05:07:49 - DHT support [ON]
+(I) 2022-01-01T05:07:49 - Local Peer Discovery support [ON]
+(I) 2022-01-01T05:07:49 - PeX support [ON]
+(I) 2022-01-01T05:07:49 - Anonymous mode [OFF]
+(I) 2022-01-01T05:07:49 - Encryption support [ON]
+(I) 2022-01-01T05:07:49 - Embedded Tracker [OFF]
+(I) 2022-01-01T05:07:49 - UPnP / NAT-PMP support [ON]
+(W) 2022-01-01T05:07:49 - Couldn't load GeoIP database. Reason: No such file or directory
+(N) 2022-01-01T05:07:49 - Using built-in Web UI.
+(N) 2022-01-01T05:07:49 - Web UI translation for selected locale (en) has been successfully loaded.
+(N) 2022-01-01T05:07:49 - Web UI: Now listening on IP: *, port: 25665
+(I) 2022-01-01T05:07:49 - qBittorrent is successfully listening on interface :: port: TCP/8999
+(I) 2022-01-01T05:07:49 - qBittorrent is successfully listening on interface 0.0.0.0 port: TCP/8999
+(I) 2022-01-01T05:07:49 - qBittorrent is successfully listening on interface 0.0.0.0 port: UDP/8999
+(W) 2022-01-01T05:07:49 - Couldn't download GeoIP database file. Reason: The remote host name was not found (invalid hostname)
+(I) 2022-01-01T05:07:49 - External IP: 54.147.177.1
+(C) 2022-01-01T05:10:25 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: no router found
+(C) 2022-01-01T05:10:25 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: no router found
+(C) 2022-01-01T05:10:25 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: no router found
+(N) 2022-01-12T04:08:09 - qBittorrent v4.1.7 started
+(I) 2022-01-12T04:08:09 - qBittorrent is trying to listen on any interface port: 8999
+(N) 2022-01-12T04:08:09 - Peer ID: -qB4170-
+(N) 2022-01-12T04:08:09 - HTTP User-Agent is 'qBittorrent/4.1.7'
+(I) 2022-01-12T04:08:09 - DHT support [ON]
+(I) 2022-01-12T04:08:09 - Local Peer Discovery support [ON]
+(I) 2022-01-12T04:08:09 - PeX support [ON]
+(I) 2022-01-12T04:08:09 - Anonymous mode [OFF]
+(I) 2022-01-12T04:08:09 - Encryption support [ON]
+(I) 2022-01-12T04:08:09 - Embedded Tracker [OFF]
+(I) 2022-01-12T04:08:09 - UPnP / NAT-PMP support [ON]
+(W) 2022-01-12T04:08:09 - Couldn't load GeoIP database. Reason: No such file or directory
+(N) 2022-01-12T04:08:09 - Using built-in Web UI.
+(N) 2022-01-12T04:08:09 - Web UI translation for selected locale (en) has been successfully loaded.
+(N) 2022-01-12T04:08:09 - Web UI: Now listening on IP: *, port: 38452
+(I) 2022-01-12T04:08:09 - qBittorrent is successfully listening on interface :: port: TCP/8999
+(I) 2022-01-12T04:08:09 - qBittorrent is successfully listening on interface 0.0.0.0 port: TCP/8999
+(I) 2022-01-12T04:08:09 - qBittorrent is successfully listening on interface 0.0.0.0 port: UDP/8999
+(W) 2022-01-12T04:08:09 - Couldn't download GeoIP database file. Reason: The remote host name was not found (invalid hostname)
+(I) 2022-01-12T04:08:09 - External IP: 3.235.93.17
+(C) 2022-01-12T04:10:45 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: no router found
+(C) 2022-01-12T04:10:45 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: no router found
+(C) 2022-01-12T04:10:45 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: no router found
+(N) 2022-01-14T05:08:27 - qBittorrent v4.1.7 started
+(I) 2022-01-14T05:08:27 - qBittorrent is trying to listen on any interface port: 8999
+(N) 2022-01-14T05:08:27 - Peer ID: -qB4170-
+(N) 2022-01-14T05:08:27 - HTTP User-Agent is 'qBittorrent/4.1.7'
+(I) 2022-01-14T05:08:27 - DHT support [ON]
+(I) 2022-01-14T05:08:27 - Local Peer Discovery support [ON]
+(I) 2022-01-14T05:08:27 - PeX support [ON]
+(I) 2022-01-14T05:08:27 - Anonymous mode [OFF]
+(I) 2022-01-14T05:08:27 - Encryption support [ON]
+(I) 2022-01-14T05:08:27 - Embedded Tracker [OFF]
+(I) 2022-01-14T05:08:27 - UPnP / NAT-PMP support [ON]
+(W) 2022-01-14T05:08:27 - Couldn't load GeoIP database. Reason: No such file or directory
+(N) 2022-01-14T05:08:27 - Using built-in Web UI.
+(N) 2022-01-14T05:08:27 - Web UI translation for selected locale (en) has been successfully loaded.
+(N) 2022-01-14T05:08:27 - Web UI: Now listening on IP: *, port: 17288
+(I) 2022-01-14T05:08:27 - qBittorrent is successfully listening on interface :: port: TCP/8999
+(I) 2022-01-14T05:08:27 - qBittorrent is successfully listening on interface 0.0.0.0 port: TCP/8999
+(I) 2022-01-14T05:08:27 - qBittorrent is successfully listening on interface 0.0.0.0 port: UDP/8999
+(W) 2022-01-14T05:08:27 - Couldn't download GeoIP database file. Reason: The remote host name was not found (invalid hostname)
+(I) 2022-01-14T05:08:28 - External IP: 34.229.64.60
+(C) 2022-01-14T05:11:03 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: no router found
+(C) 2022-01-14T05:11:03 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: no router found
+(C) 2022-01-14T05:11:03 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: no router found
+(N) 2022-01-15T02:39:05 - qBittorrent v4.1.7 started
+(I) 2022-01-15T02:39:05 - qBittorrent is trying to listen on any interface port: 8999
+(N) 2022-01-15T02:39:05 - Peer ID: -qB4170-
+(N) 2022-01-15T02:39:05 - HTTP User-Agent is 'qBittorrent/4.1.7'
+(I) 2022-01-15T02:39:05 - DHT support [ON]
+(I) 2022-01-15T02:39:05 - Local Peer Discovery support [ON]
+(I) 2022-01-15T02:39:05 - PeX support [ON]
+(I) 2022-01-15T02:39:05 - Anonymous mode [OFF]
+(I) 2022-01-15T02:39:05 - Encryption support [ON]
+(I) 2022-01-15T02:39:05 - Embedded Tracker [OFF]
+(I) 2022-01-15T02:39:05 - UPnP / NAT-PMP support [ON]
+(W) 2022-01-15T02:39:05 - Couldn't load GeoIP database. Reason: No such file or directory
+(N) 2022-01-15T02:39:05 - Using built-in Web UI.
+(N) 2022-01-15T02:39:05 - Web UI translation for selected locale (en) has been successfully loaded.
+(N) 2022-01-15T02:39:05 - Web UI: Now listening on IP: *, port: 5950
+(I) 2022-01-15T02:39:05 - qBittorrent is successfully listening on interface :: port: TCP/8999
+(I) 2022-01-15T02:39:05 - qBittorrent is successfully listening on interface 0.0.0.0 port: TCP/8999
+(I) 2022-01-15T02:39:05 - qBittorrent is successfully listening on interface 0.0.0.0 port: UDP/8999
+(W) 2022-01-15T02:39:05 - Couldn't download GeoIP database file. Reason: The remote host name was not found (invalid hostname)
+(I) 2022-01-15T02:39:05 - External IP: 18.234.100.184
+(N) 2022-01-15T02:39:21 - WebAPI login success. IP: ::ffff:10.1.4.118
+(C) 2022-01-15T02:41:41 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: no router found
+(C) 2022-01-15T02:41:41 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: no router found
+(C) 2022-01-15T02:41:41 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: no router found
+(W) 2022-01-15T02:43:06 -  is not a valid IP address and was rejected while applying the list of banned addresses.
+(N) 2022-01-15T02:43:06 - Web UI: Now listening on IP: *, port: 5950
+(W) 2022-01-15T02:43:51 -  is not a valid IP address and was rejected while applying the list of banned addresses.
+(N) 2022-01-15T02:43:51 - Web UI: Now listening on IP: *, port: 5950
+(W) 2022-01-15T02:45:18 -  is not a valid IP address and was rejected while applying the list of banned addresses.
+(I) 2022-01-15T02:45:32 - UPnP / NAT-PMP support [OFF]
